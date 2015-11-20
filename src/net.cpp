@@ -1139,9 +1139,13 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    	{"195.34.100.2", "195.34.100.2"},
-		{"94.156.237.70", "94.156.237.70"},
-		{"212.91.189.164", "212.91.189.164"},
+	{"mtr-seed1.granitecoin.com", "mtr-seed1.granitecoin.com"},
+	{"mtr-seed2.granitecoin.com", "mtr-seed2.granitecoin.com"},
+	{"mtr-seed3.granitecoin.com", "mtr-seed3.granitecoin.com"},
+// below are the old seed ip addresses - preserved for archival purposes ...	
+//    	{"195.34.100.2", "195.34.100.2"},
+//		{"94.156.237.70", "94.156.237.70"},
+//		{"212.91.189.164", "212.91.189.164"},
 	
 };
 

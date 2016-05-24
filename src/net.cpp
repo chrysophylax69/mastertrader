@@ -1142,6 +1142,9 @@ static const char *strDNSSeed[][2] = {
 	{"mtr-seed1.granitecoin.com", "mtr-seed1.granitecoin.com"},
 	{"mtr-seed2.granitecoin.com", "mtr-seed2.granitecoin.com"},
 	{"mtr-seed3.granitecoin.com", "mtr-seed3.granitecoin.com"},
+	{"mtr-seed3.granitecoin.com", "mtr-seed4.granitecoin.com"},
+	{"mtr-seed3.granitecoin.com", "mtr-seed5.granitecoin.com"},
+	
 	
 // below are the old seed ip addresses - preserved for archival purposes ...	
 //    	{"195.34.100.2", "195.34.100.2"},

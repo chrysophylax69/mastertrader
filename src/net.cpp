@@ -1140,12 +1140,12 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
 	{"mtr-seed01.chainworksindustries.com", "mtr-seed01.chainworksindustries.com"},
-	{"mtr-seed01.chainworksindustries.com", "mtr-seed01.chainworksindustries.com"},
-	{"mtr-seed01.chainworksindustries.com", "mtr-seed01.chainworksindustries.com"},
-	{"mtr-seed01.chainworksindustries.com", "mtr-seed01.chainworksindustries.com"},
-	{"mtr-seed01.chainworksindustries.com", "mtr-seed01.chainworksindustries.com"},
-	{"mtr-seed01.chainworksindustries.com", "mtr-seed01.chainworksindustries.com"},
-	{"mtr-seed01.chainworksindustries.com", "mtr-seed01.chainworksindustries.com"},
+	{"mtr-seed02.chainworksindustries.com", "mtr-seed02.chainworksindustries.com"},
+	{"mtr-seed03.chainworksindustries.com", "mtr-seed03.chainworksindustries.com"},
+	{"mtr-seed04.chainworksindustries.com", "mtr-seed04.chainworksindustries.com"},
+	{"mtr-seed05.chainworksindustries.com", "mtr-seed05.chainworksindustries.com"},
+	{"mtr-seed06.chainworksindustries.com", "mtr-seed06.chainworksindustries.com"},
+	{"mtr-seed07.chainworksindustries.com", "mtr-seed07.chainworksindustries.com"},
 	
 // below are the old seed ip addresses - preserved for archival purposes ...	
 //    	{"195.34.100.2", "195.34.100.2"},
